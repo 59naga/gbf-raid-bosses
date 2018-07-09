@@ -1,0 +1,1433 @@
+[
+  {
+    "alias": "lv60-qinglong",
+    "category": "event",
+    "id": "",
+    "name": "Lv60 青竜",
+    "name_en": "Lvl 60 Qinglong",
+    "image": "https://pbs.twimg.com/media/CYpGBIuW8AEniTh.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv60-zhuque",
+    "category": "event",
+    "id": "",
+    "name": "Lv60 朱雀",
+    "name_en": "Lvl 60 Zhuque",
+    "image": "https://pbs.twimg.com/media/CfqNV2pUAAAFTq8.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv60-xuanwu",
+    "category": "event",
+    "id": "",
+    "name": "Lv60 玄武",
+    "name_en": "Lvl 60 Xuanwu",
+    "image": "https://pbs.twimg.com/media/CV1lVejVEAAmxT6.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv60-baihu",
+    "category": "event",
+    "id": "",
+    "name": "Lv60 白虎",
+    "name_en": "Lvl 60 Baihu",
+    "image": "https://pbs.twimg.com/media/Cb8So5kVAAA_a_D.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv90-zephyrus",
+    "category": "event",
+    "id": "",
+    "name": "Lv90 ゼピュロス",
+    "name_en": "Lvl 90 Zephyrus",
+    "image": "https://pbs.twimg.com/media/CYpGC_4WAAAQ6IM.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv90-agni",
+    "category": "event",
+    "id": "",
+    "name": "Lv90 アグニス",
+    "name_en": "Lvl 90 Agni",
+    "image": "https://pbs.twimg.com/media/CfqNXEVVIAEcN0B.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv90-neptune",
+    "category": "event",
+    "id": "",
+    "name": "Lv90 ネプチューン",
+    "name_en": "Lvl 90 Neptune",
+    "image": "https://pbs.twimg.com/media/CV1lT4ZUsAEaflM.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv90-titan",
+    "category": "event",
+    "id": "",
+    "name": "Lv90 ティターン",
+    "name_en": "Lvl 90 Titan",
+    "image": "https://pbs.twimg.com/media/Cb8Squ1VIAAeo69.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv100-xeno-sagittarius",
+    "category": "event",
+    "id": "",
+    "name": "Lv100 ゼノ・サジタリウス",
+    "name_en": "Lvl 100 Xeno Sagittarius",
+    "image": "https://pbs.twimg.com/media/DICaGf2U0AA8rJE.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv100-xeno-cocytus",
+    "category": "event",
+    "id": "",
+    "name": "Lv100 ゼノ・コキュートス",
+    "name_en": "Lvl 100 Xeno Cocytus",
+    "image": "https://pbs.twimg.com/media/DPXLRenVoAUfB1p.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv100-xeno-vohu-manah",
+    "category": "event",
+    "id": "",
+    "name": "Lv100 ゼノ・ウォフマナフ",
+    "name_en": "Lvl 100 Xeno Vohu Manah",
+    "image": "https://pbs.twimg.com/media/C7FV6BVVoAAA8Ai.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv100-xeno-corow",
+    "category": "event",
+    "id": "",
+    "name": "Lv100 ゼノ・コロゥ",
+    "name_en": "Lvl 100 Xeno Corow",
+    "image": "https://pbs.twimg.com/media/DYsqZQBV4AEnG7Z.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv100-xeno-ifrit",
+    "category": "event",
+    "id": "",
+    "name": "Lv100 ゼノ・イフリート",
+    "name_en": "Lvl 100 Xeno Ifrit",
+    "image": "https://pbs.twimg.com/media/C4sbgzyWMAA3B8D.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv100-xeno-diablo",
+    "category": "event",
+    "id": "",
+    "name": "Lv100 ゼノ・ディアボロス",
+    "name_en": "Lvl 100 Xeno Diablo",
+    "image": "https://pbs.twimg.com/media/DRij9xmUMAUVH2J.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv100-sandalphon",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv100 サンダルフォン",
+    "name_en": "Lvl 100 Sandalphon",
+    "image": "",
+    "element": "Light"
+  },
+  {
+    "alias": "lv100-belial",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv100 ベリアル",
+    "name_en": "Lvl 100 Belial",
+    "image": "https://pbs.twimg.com/media/DXPvzzUVAAACL2Y.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv30-time-retrograde-army",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv30 時間遡行軍",
+    "name_en": "Lvl 30 Time Retrograde Army",
+    "image": "",
+    "element": "None"
+  },
+  {
+    "alias": "lv30-aberrant-tower",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv30 異形の司令塔",
+    "name_en": "Lvl 30 Aberrant Tower",
+    "image": "",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv30-elder-vestige",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv30 先史の遺像",
+    "name_en": "Lvl 30 Elder Vestige",
+    "image": "",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv30-phantom-fox",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv30 九尾の幻影",
+    "name_en": "Lvl 30 Phantom Fox",
+    "image": "https://pbs.twimg.com/media/DNmk7HgVAAEnV3P.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv30-the-watery",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv30 『水』",
+    "name_en": "Lvl 30 The Watery",
+    "image": "",
+    "element": "Water"
+  },
+  {
+    "alias": "lv30-devastation-cannon",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv30 自律駆動ガトリング砲",
+    "name_en": "Lvl 30 Devastation Cannon",
+    "image": "https://pbs.twimg.com/media/DaTpGqGVMAAmN0Y.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv30-dominion-core",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv30 ドミニオンズ・コア",
+    "name_en": "Lvl 30 Dominion Core",
+    "image": "",
+    "element": "Light"
+  },
+  {
+    "alias": "lv30-mecha-zogora",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv30 覇壊機獣メカゾゴラ",
+    "name_en": "Lvl 30 Mecha Zogora",
+    "image": "",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv30-belial",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv30 ベリアル",
+    "name_en": "Lvl 30 Belial",
+    "image": "https://pbs.twimg.com/media/DXPvrA3VwAAs8nZ.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv30-queen-s-armor",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv30 魔王の鎧",
+    "name_en": "Lvl 30 Queen's Armor",
+    "image": "",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv50-amatsumaula",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv50 アマツマウラ",
+    "name_en": "Lvl 50 Amatsumaula",
+    "image": "",
+    "element": "None"
+  },
+  {
+    "alias": "lv50-xolotl",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv50 ショロトル",
+    "name_en": "Lvl 50 Xolotl",
+    "image": "",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv50-chaos-beast",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv50 ケイオスビースト",
+    "name_en": "Lvl 50 Chaos Beast",
+    "image": "",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv50-ninpress",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv50 九尾",
+    "name_en": "Lvl 50 Ninpress",
+    "image": "https://pbs.twimg.com/media/DNmk8f1VQAAImDE.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv50-devastation-cannon",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv50 自律駆動ガトリング砲",
+    "name_en": "Lvl 50 Devastation Cannon",
+    "image": "https://pbs.twimg.com/media/DaTpKbuV4AY1ZVE.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv50-sandalphon",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv50 サンダルフォン",
+    "name_en": "Lvl 50 Sandalphon",
+    "image": "",
+    "element": "Light"
+  },
+  {
+    "alias": "lv50-the-thunder",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv50 『雷』",
+    "name_en": "Lvl 50 The Thunder",
+    "image": "",
+    "element": "Light"
+  },
+  {
+    "alias": "lv50-lord-daimon",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv50 覇壊神ダイモン",
+    "name_en": "Lvl 50 Lord Daimon",
+    "image": "",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv50-avatar",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv50 アバター",
+    "name_en": "Lvl 50 Avatar",
+    "image": "https://pbs.twimg.com/media/DXPvxTYU8AAHAB8.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv50-sharom",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv50 シャローム",
+    "name_en": "Lvl 50 Sharom",
+    "image": "",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv60-procris",
+    "category": "eventLimited",
+    "id": "",
+    "name": "Lv60 プロスクリスィ",
+    "name_en": "Lvl 60 Procris",
+    "image": "",
+    "element": "None"
+  },
+  {
+    "alias": "lv100-quetzalcoatl",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv100 ケツァルコアトル",
+    "name_en": "Lvl 100 Quetzalcoatl",
+    "image": "",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv100-sethlans",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv100 セスランス",
+    "name_en": "Lvl 100 Sethlans",
+    "image": "https://pbs.twimg.com/media/DOO6_GHVoAAMgFC.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv100-oktopode",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv100 オクトポーデ",
+    "name_en": "Lvl 100 Oktopode",
+    "image": "",
+    "element": "Water"
+  },
+  {
+    "alias": "lv100-snow-white",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv100 スノウホワイト",
+    "name_en": "Lvl 100 Snow White",
+    "image": "https://pbs.twimg.com/media/DeASdlxV4AAhcGO.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv100-piasa",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv100 パイア・ソー",
+    "name_en": "Lvl 100 Piasa",
+    "image": "",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv100-fudgey-filly",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv100 ボンボン・ポニー",
+    "name_en": "Lvl 100 Fudgey Filly",
+    "image": "https://pbs.twimg.com/media/DWHr-q1VAAA9S6B.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv100-typhon",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv100 テュポーン",
+    "name_en": "Lvl 100 Typhon",
+    "image": "https://pbs.twimg.com/media/DbgtT7uU8AA-ZGy.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv30-ogler",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv30 ゲイザー",
+    "name_en": "Lvl 30 Ogler",
+    "image": "https://pbs.twimg.com/media/DT4d8sDVoAAoQKq.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv30-ahura",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv30 アーフラー",
+    "name_en": "Lvl 30 Ahura",
+    "image": "https://pbs.twimg.com/media/CeSO4quUYAAy8U1.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv30-cyaegha",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv30 シアエガ",
+    "name_en": "Lvl 30 Cyaegha",
+    "image": "",
+    "element": "Water"
+  },
+  {
+    "alias": "lv30-dimorphodon",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv30 ディモルフォドン",
+    "name_en": "Lvl 30 Dimorphodon",
+    "image": "",
+    "element": "Water"
+  },
+  {
+    "alias": "lv30-ahriman",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv30 アーリマン",
+    "name_en": "Lvl 30 Ahriman",
+    "image": "",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv40-ogler",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv40 ゲイザー",
+    "name_en": "Lvl 40 Ogler",
+    "image": "https://pbs.twimg.com/media/DT4eBQtU8AMX3cQ.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv40-ahura",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv40 アーフラー",
+    "name_en": "Lvl 40 Ahura",
+    "image": "https://pbs.twimg.com/media/CeSO6aAWAAAAOGe.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv40-cyaegha",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv40 シアエガ",
+    "name_en": "Lvl 40 Cyaegha",
+    "image": "",
+    "element": "Water"
+  },
+  {
+    "alias": "lv40-dimorphodon",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv40 ディモルフォドン",
+    "name_en": "Lvl 40 Dimorphodon",
+    "image": "",
+    "element": "Water"
+  },
+  {
+    "alias": "lv40-ahriman",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv40 アーリマン",
+    "name_en": "Lvl 40 Ahriman",
+    "image": "",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv50-gugalanna",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv50 グガランナ",
+    "name_en": "Lvl 50 Gugalanna",
+    "image": "https://pbs.twimg.com/media/DT4eXHcU0AMCfh-.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv50-grendel",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv50 ベオウルフ",
+    "name_en": "Lvl 50 Grendel",
+    "image": "https://pbs.twimg.com/media/CeSO8gHWAAEnMGl.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv50-audumbla",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv50 アウズンブラ",
+    "name_en": "Lvl 50 Audumbla",
+    "image": "https://pbs.twimg.com/media/CjLxRvbUkAAIlIt.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv50-allosaurus",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv50 アロザロウス",
+    "name_en": "Lvl 50 Allosaurus",
+    "image": "",
+    "element": "Water"
+  },
+  {
+    "alias": "lv50-cocoa-creepy",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv50 チョコポーチ",
+    "name_en": "Lvl 50 Cocoa Creepy",
+    "image": "https://pbs.twimg.com/media/DWHrZF1VMAA0Kpm.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv60-gugalanna",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv60 グガランナ",
+    "name_en": "Lvl 60 Gugalanna",
+    "image": "https://pbs.twimg.com/media/DT4eYVFU8AAAigm.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv60-grendel",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv60 ベオウルフ",
+    "name_en": "Lvl 60 Grendel",
+    "image": "https://pbs.twimg.com/media/CeSO-QrWwAECCG1.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv60-allosaurus",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv60 アロザロウス",
+    "name_en": "Lvl 60 Allosaurus",
+    "image": "",
+    "element": "Water"
+  },
+  {
+    "alias": "lv60-audumbla",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv60 アウズンブラ",
+    "name_en": "Lvl 60 Audumbla",
+    "image": "https://pbs.twimg.com/media/CjLxVEtUkAAJCKK.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv60-cocoa-creepy",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv60 チョコポーチ",
+    "name_en": "Lvl 60 Cocoa Creepy",
+    "image": "",
+    "element": "Light"
+  },
+  {
+    "alias": "lv75-viridian-horn",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv75 エメラルドホーン",
+    "name_en": "Lvl 75 Viridian Horn",
+    "image": "https://pbs.twimg.com/media/DT4ecd_VQAA5HIb.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv75-vulcanrio",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv75 ヴァルカンライオ",
+    "name_en": "Lvl 75 Vulcanrio",
+    "image": "https://pbs.twimg.com/media/CeSO_xLUUAA4RvN.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv75-aberration",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv75 ビザールビースト",
+    "name_en": "Lvl 75 Aberration",
+    "image": "https://pbs.twimg.com/media/CjLxc3FUkAAqOiJ.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv75-tyrannus",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv75 ティラノス",
+    "name_en": "Lvl 75 Tyrannus",
+    "image": "https://pbs.twimg.com/media/Cg7ofNmVEAEyw48.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv75-chocolate-fantastica",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv75　チョコレートメルヘン",
+    "name_en": "Lvl 75 Chocolate Fantastica",
+    "image": "https://pbs.twimg.com/media/DWHrwNuUMAAymYW.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv75-wicked-rebel",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv75 ウィケッドレブル",
+    "name_en": "Lvl 75 Wicked Rebel",
+    "image": "https://pbs.twimg.com/media/CZoDFuLWwAAyx1o.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv90-quetzalcoatl",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv90 ケツァルコアトル",
+    "name_en": "Lvl 90 Quetzalcoatl",
+    "image": "",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv90-sethlans",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv90 セスランス",
+    "name_en": "Lvl 90 Sethlans",
+    "image": "https://pbs.twimg.com/media/DOO68E0VoAAL-AS.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv90-snow-white",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv90 スノウホワイト",
+    "name_en": "Lvl 90 Snow White",
+    "image": "https://pbs.twimg.com/media/DeASZFNVAAAYTVf.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv90-oktopode",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv90 オクトポーデ",
+    "name_en": "Lvl 90 Oktopode",
+    "image": "",
+    "element": "Water"
+  },
+  {
+    "alias": "lv90-piasa",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv90 パイア・ソー",
+    "name_en": "Lvl 90 Piasa",
+    "image": "",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv90-fudgey-filly",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv90 ボンボン・ポニー",
+    "name_en": "Lvl 90 Fudgey Filly",
+    "image": "https://pbs.twimg.com/media/DWHr4P3U0AArZKq.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv90-typhon",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv90 テュポーン",
+    "name_en": "Lvl 90 Typhon",
+    "image": "https://pbs.twimg.com/media/DbgtONrUQAAMtXh.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv95-quetzalcoatl",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv95 ケツァルコアトル",
+    "name_en": "Lvl 95 Quetzalcoatl",
+    "image": "",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv95-sethlans",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv95 セスランス",
+    "name_en": "Lvl 95 Sethlans",
+    "image": "https://pbs.twimg.com/media/DOO69j3UQAAreS1.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv95-oktopode",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv95 オクトポーデ",
+    "name_en": "Lvl 95 Oktopode",
+    "image": "",
+    "element": "Water"
+  },
+  {
+    "alias": "lv95-snow-white",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv95 スノウホワイト",
+    "name_en": "Lvl 95 Snow White",
+    "image": "https://pbs.twimg.com/media/DeASblkVwAAILd0.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv95-piasa",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv95 パイア・ソー",
+    "name_en": "Lvl 95 Piasa",
+    "image": "",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv95-fudgey-filly",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv95 ボンボン・ポニー",
+    "name_en": "Lvl 95 Fudgey Filly",
+    "image": "https://pbs.twimg.com/media/DWHr7wUU0AAW7kL.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv95-typhon",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv95 テュポーン",
+    "name_en": "Lvl 95 Typhon",
+    "image": "https://pbs.twimg.com/media/DbgtRVZVwAEoGEf.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv100-tiamat-omega-ayr",
+    "category": "impossible1",
+    "id": "",
+    "name": "Lv100 ティアマト・マグナ＝エア",
+    "name_en": "Lvl 100 Tiamat Omega Ayr",
+    "image": "https://pbs.twimg.com/media/CT6cNUBUAAETdz6.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv100-colossus-omega",
+    "category": "impossible1",
+    "id": "",
+    "name": "Lv100 コロッサス・マグナ",
+    "name_en": "Lvl 100 Colossus Omega",
+    "image": "https://pbs.twimg.com/media/CVL2CmeUwAAElDW.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv100-leviathan-omega",
+    "category": "impossible1",
+    "id": "",
+    "name": "Lv100 リヴァイアサン・マグナ",
+    "name_en": "Lvl 100 Leviathan Omega",
+    "image": "https://pbs.twimg.com/media/CYBkbZSUAAA2BW-.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv100-yggdrasil-omega",
+    "category": "impossible1",
+    "id": "",
+    "name": "Lv100 ユグドラシル・マグナ",
+    "name_en": "Lvl 100 Yggdrasil Omega",
+    "image": "https://pbs.twimg.com/media/CYBkhTmUsAAPjgu.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv100-luminiera-omega",
+    "category": "impossible1",
+    "id": "",
+    "name": "Lv100 シュヴァリエ・マグナ",
+    "name_en": "Lvl 100 Luminiera Omega",
+    "image": "https://pbs.twimg.com/media/CbTeQ1fVIAAEoqi.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv100-celeste-omega",
+    "category": "impossible1",
+    "id": "",
+    "name": "Lv100 セレスト・マグナ",
+    "name_en": "Lvl 100 Celeste Omega",
+    "image": "https://pbs.twimg.com/media/CbTeWuMUUAIzFZl.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv120-nezha",
+    "category": "impossible2",
+    "id": "",
+    "name": "Lv120 ナタク",
+    "name_en": "Lvl 120 Nezha",
+    "image": "https://pbs.twimg.com/media/CT6cQD-UcAE3nt2.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv120-twin-elements",
+    "category": "impossible2",
+    "id": "",
+    "name": "Lv120 フラム＝グラス",
+    "name_en": "Lvl 120 Twin Elements",
+    "image": "https://pbs.twimg.com/media/CVL2EBHUwAA8nUj.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv120-macula-marius",
+    "category": "impossible2",
+    "id": "",
+    "name": "Lv120 マキュラ・マリウス",
+    "name_en": "Lvl 120 Macula Marius",
+    "image": "https://pbs.twimg.com/media/CYBkd_1UEAATH9J.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv120-medusa",
+    "category": "impossible2",
+    "id": "",
+    "name": "Lv120 メドゥーサ",
+    "name_en": "Lvl 120 Medusa",
+    "image": "https://pbs.twimg.com/media/CYBki-CUkAQVWW_.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv120-apollo",
+    "category": "impossible2",
+    "id": "",
+    "name": "Lv120 アポロン",
+    "name_en": "Lvl 120 Apollo",
+    "image": "https://pbs.twimg.com/media/CbTeO4fUkAEmmIN.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv120-dark-angel-olivia",
+    "category": "impossible2",
+    "id": "",
+    "name": "Lv120 Dエンジェル・オリヴィエ",
+    "name_en": "Lvl 120 Dark Angel Olivia",
+    "image": "https://pbs.twimg.com/media/CbTeSqbUcAARoNV.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv110-rose-queen",
+    "category": "impossible2",
+    "id": "",
+    "name": "Lv110 ローズクイーン",
+    "name_en": "Lvl 110 Rose Queen",
+    "image": "https://pbs.twimg.com/media/CUnrstgUYAA4hOz.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv120-shiva",
+    "category": "impossible3",
+    "id": "",
+    "name": "Lv120 シヴァ",
+    "name_en": "Lvl 120 Shiva",
+    "image": "https://pbs.twimg.com/media/DX5TiYOVMAAFFFL.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv120-europa",
+    "category": "impossible3",
+    "id": "",
+    "name": "Lv120 エウロペ",
+    "name_en": "Lvl 120 Europa",
+    "image": "https://pbs.twimg.com/media/DX5TmDVVoAA_V0a.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv120-godsworn-alexiel",
+    "category": "impossible3",
+    "id": "",
+    "name": "Lv120 ゴッドガード・ブローディア",
+    "name_en": "Lvl 120 Godsworn Alexiel",
+    "image": "https://pbs.twimg.com/media/DX5TpAvVQAAYzR_.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv120-grimnir",
+    "category": "impossible3",
+    "id": "",
+    "name": "Lv120 グリームニル",
+    "name_en": "Lvl 120 Grimnir",
+    "image": "https://pbs.twimg.com/media/DX5Tr0WVoAAzSFa.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv120-metatron",
+    "category": "impossible3",
+    "id": "",
+    "name": "Lv120 メタトロン",
+    "name_en": "Lvl 120 Metatron",
+    "image": "https://pbs.twimg.com/media/DZVln20U0AAIFLt.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv120-avatar",
+    "category": "impossible3",
+    "id": "",
+    "name": "Lv120 アバター",
+    "name_en": "Lvl 120 Avatar",
+    "image": "https://pbs.twimg.com/media/DZVlq39U0AIRPF2.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv120-prometheus",
+    "category": "impossible4",
+    "id": "",
+    "name": "Lv120 プロメテウス",
+    "name_en": "Lvl 120 Prometheus",
+    "image": "https://pbs.twimg.com/media/CqG0anMUIAU6z7f.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv120-ca-ong",
+    "category": "impossible4",
+    "id": "",
+    "name": "Lv120 カー・オン",
+    "name_en": "Lvl 120 Ca Ong",
+    "image": "https://pbs.twimg.com/media/Cs1w3NXVMAAAiRy.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv120-gilgamesh",
+    "category": "impossible4",
+    "id": "",
+    "name": "Lv120 ギルガメッシュ",
+    "name_en": "Lvl 120 Gilgamesh",
+    "image": "https://pbs.twimg.com/media/CqG0X1tUkAA5B8_.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv120-morrigna",
+    "category": "impossible4",
+    "id": "",
+    "name": "Lv120 バイヴカハ",
+    "name_en": "Lvl 120 Morrigna",
+    "image": "https://pbs.twimg.com/media/CucwemxVUAA7pWF.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv120-hector",
+    "category": "impossible4",
+    "id": "",
+    "name": "Lv120 ヘクトル",
+    "name_en": "Lvl 120 Hector",
+    "image": "https://pbs.twimg.com/media/CyEeWDkUQAQ5DzW.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv120-anubis",
+    "category": "impossible4",
+    "id": "",
+    "name": "Lv120 アヌビス",
+    "name_en": "Lvl 120 Anubis",
+    "image": "https://pbs.twimg.com/media/CzcJCMtVEAEbPjY.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv150-proto-bahamut",
+    "category": "impossible5",
+    "id": "",
+    "name": "Lv150 プロトバハムート",
+    "name_en": "Lvl 150 Proto Bahamut",
+    "image": "https://pbs.twimg.com/media/CdL4WyxUYAIXPb8.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv200-ultimate-bahamut",
+    "category": "impossible6",
+    "id": "",
+    "name": "Lv200 アルティメットバハムート",
+    "name_en": "Lvl 200 Ultimate Bahamut",
+    "image": "https://pbs.twimg.com/media/DFyjuvSUMAAqFbd.jpg",
+    "element": "None"
+  },
+  {
+    "alias": "lv20-griffin",
+    "category": "misc",
+    "id": "",
+    "name": "Lv20 グリフォン",
+    "name_en": "Lvl 20 Griffin",
+    "image": "https://pbs.twimg.com/media/CT6cKZPUsAEb4aA.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv20-zarchnal-flame",
+    "category": "misc",
+    "id": "",
+    "name": "Lv20 ザリチュナルフレイム",
+    "name_en": "Lvl 20 Zarchnal Flame",
+    "image": "https://pbs.twimg.com/media/CT6cTLoU8AANTDz.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv20-imperial-guard",
+    "category": "misc",
+    "id": "",
+    "name": "Lv20 インペリアルガード",
+    "name_en": "Lvl 20 Imperial Guard",
+    "image": "https://pbs.twimg.com/media/CT6cWDUUEAArJAZ.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv30-tiamat",
+    "category": "misc",
+    "id": "",
+    "name": "Lv30 ティアマト",
+    "name_en": "Lvl 30 Tiamat",
+    "image": "https://pbs.twimg.com/media/CT6cLx4VAAAzePV.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv30-griffin",
+    "category": "misc",
+    "id": "",
+    "name": "Lv30 グリフォン",
+    "name_en": "Lvl 30 Griffin",
+    "image": "https://pbs.twimg.com/media/CT6cKZPUsAEb4aA.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv30-zarchnal-flame",
+    "category": "misc",
+    "id": "",
+    "name": "Lv30 ザリチュナルフレイム",
+    "name_en": "Lvl 30 Zarchnal Flame",
+    "image": "https://pbs.twimg.com/media/CT6cTLoU8AANTDz.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv30-colossus",
+    "category": "misc",
+    "id": "",
+    "name": "Lv30 コロッサス",
+    "name_en": "Lvl 30 Colossus",
+    "image": "https://pbs.twimg.com/media/CT6cUf8VEAEBaEb.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv30-leviathan",
+    "category": "misc",
+    "id": "",
+    "name": "Lv30 リヴァイアサン",
+    "name_en": "Lvl 30 Leviathan",
+    "image": "https://pbs.twimg.com/media/CT6cXcgUEAEc0Zl.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv30-imperial-guard",
+    "category": "misc",
+    "id": "",
+    "name": "Lv30 インペリアルガード",
+    "name_en": "Lvl 30 Imperial Guard",
+    "image": "https://pbs.twimg.com/media/CT6cWDUUEAArJAZ.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv30-yggdrasil",
+    "category": "misc",
+    "id": "",
+    "name": "Lv30 ユグドラシル",
+    "name_en": "Lvl 30 Yggdrasil",
+    "image": "https://pbs.twimg.com/media/CT6cbScU8AAgXRw.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv30-ancient-dragon",
+    "category": "misc",
+    "id": "",
+    "name": "Lv30 エンシェントドラゴン",
+    "name_en": "Lvl 30 Ancient Dragon",
+    "image": "https://pbs.twimg.com/media/CT6cZ4ZUEAATMRc.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv30-will-o-wisp",
+    "category": "misc",
+    "id": "",
+    "name": "Lv30 ウィル･オ･ウィスプ",
+    "name_en": "Lvl 30 Will-o'-Wisp",
+    "image": "https://pbs.twimg.com/media/CT6cfCEUYAEtU95.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv30-adversa",
+    "category": "misc",
+    "id": "",
+    "name": "Lv30 アドウェルサ",
+    "name_en": "Lvl 30 Adversa",
+    "image": "https://pbs.twimg.com/media/CT6cgc5UYAIhJoB.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv30-evil-eye",
+    "category": "misc",
+    "id": "",
+    "name": "Lv30 イービルアイ",
+    "name_en": "Lvl 30 Evil Eye",
+    "image": "https://pbs.twimg.com/media/CT6cjv-U8AAq_zI.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv30-celeste",
+    "category": "misc",
+    "id": "",
+    "name": "Lv30 セレスト",
+    "name_en": "Lvl 30 Celeste",
+    "image": "https://pbs.twimg.com/media/CT6cmzjUcAIvSo_.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv50-tiamat",
+    "category": "misc",
+    "id": "",
+    "name": "Lv50 ティアマト",
+    "name_en": "Lvl 50 Tiamat",
+    "image": "https://pbs.twimg.com/media/CT6cLx4VAAAzePV.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv50-colossus",
+    "category": "misc",
+    "id": "",
+    "name": "Lv50 コロッサス",
+    "name_en": "Lvl 50 Colossus",
+    "image": "https://pbs.twimg.com/media/CT6cUf8VEAEBaEb.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv50-leviathan",
+    "category": "misc",
+    "id": "",
+    "name": "Lv50 リヴァイアサン",
+    "name_en": "Lvl 50 Leviathan",
+    "image": "https://pbs.twimg.com/media/CT6cXcgUEAEc0Zl.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv50-yggdrasil",
+    "category": "misc",
+    "id": "",
+    "name": "Lv50 ユグドラシル",
+    "name_en": "Lvl 50 Yggdrasil",
+    "image": "https://pbs.twimg.com/media/CT6cbScU8AAgXRw.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv50-adversa",
+    "category": "misc",
+    "id": "",
+    "name": "Lv50 アドウェルサ",
+    "name_en": "Lvl 50 Adversa",
+    "image": "https://pbs.twimg.com/media/CT6cgc5UYAIhJoB.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv50-celeste",
+    "category": "misc",
+    "id": "",
+    "name": "Lv50 セレスト",
+    "name_en": "Lvl 50 Celeste",
+    "image": "https://pbs.twimg.com/media/CT6cmzjUcAIvSo_.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv50-tiamat-omega",
+    "category": "standard2",
+    "id": "",
+    "name": "Lv50 ティアマト・マグナ",
+    "name_en": "Lvl 50 Tiamat Omega",
+    "image": "https://pbs.twimg.com/media/CT6buTPUwAIM9VJ.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv70-colossus-omega",
+    "category": "standard2",
+    "id": "",
+    "name": "Lv70 コロッサス・マグナ",
+    "name_en": "Lvl 70 Colossus Omega",
+    "image": "https://pbs.twimg.com/media/CT6bwJTUYAA6mcV.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv60-leviathan-omega",
+    "category": "standard2",
+    "id": "",
+    "name": "Lv60 リヴァイアサン・マグナ",
+    "name_en": "Lvl 60 Leviathan Omega",
+    "image": "https://pbs.twimg.com/media/CT6cBK3U8AA4xdW.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv60-yggdrasil-omega",
+    "category": "standard2",
+    "id": "",
+    "name": "Lv60 ユグドラシル・マグナ",
+    "name_en": "Lvl 60 Yggdrasil Omega",
+    "image": "https://pbs.twimg.com/media/CT6cDD3UkAEnP8Y.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv75-luminiera-omega",
+    "category": "standard2",
+    "id": "",
+    "name": "Lv75 シュヴァリエ・マグナ",
+    "name_en": "Lvl 75 Luminiera Omega",
+    "image": "https://pbs.twimg.com/media/CT6cEwEUcAAlwFM.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv75-celeste-omega",
+    "category": "standard2",
+    "id": "",
+    "name": "Lv75 セレスト・マグナ",
+    "name_en": "Lvl 75 Celeste Omega",
+    "image": "https://pbs.twimg.com/media/CT6cGF4UYAAHBg5.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv100-nezha",
+    "category": "standard3",
+    "id": "",
+    "name": "Lv100 ナタク",
+    "name_en": "Lvl 100 Nezha",
+    "image": "https://pbs.twimg.com/media/CT6cOzzUwAESsq_.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv100-twin-elements",
+    "category": "standard3",
+    "id": "",
+    "name": "Lv100 フラム＝グラス",
+    "name_en": "Lvl 100 Twin Elements",
+    "image": "https://pbs.twimg.com/media/CT_qpfCUsAA9vfF.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv100-macula-marius",
+    "category": "standard3",
+    "id": "",
+    "name": "Lv100 マキュラ・マリウス",
+    "name_en": "Lvl 100 Macula Marius",
+    "image": "https://pbs.twimg.com/media/CT6cYp-UsAAy_f0.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv100-medusa",
+    "category": "standard3",
+    "id": "",
+    "name": "Lv100 メドゥーサ",
+    "name_en": "Lvl 100 Medusa",
+    "image": "https://pbs.twimg.com/media/CT6ccesVEAAy_Kx.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv100-apollo",
+    "category": "standard3",
+    "id": "",
+    "name": "Lv100 アポロン",
+    "name_en": "Lvl 100 Apollo",
+    "image": "https://pbs.twimg.com/media/CT6chwtUsAA0WFw.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv100-dark-angel-olivia",
+    "category": "standard3",
+    "id": "",
+    "name": "Lv100 Dエンジェル・オリヴィエ",
+    "name_en": "Lvl 100 Dark Angel Olivia",
+    "image": "https://pbs.twimg.com/media/CT6csqNVAAA_GFU.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv100-athena",
+    "category": "standard4",
+    "id": "",
+    "name": "Lv100 アテナ",
+    "name_en": "Lvl 100 Athena",
+    "image": "https://pbs.twimg.com/media/Cg7oAJsUkAApRif.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv100-grani",
+    "category": "standard4",
+    "id": "",
+    "name": "Lv100 グラニ",
+    "name_en": "Lvl 100 Grani",
+    "image": "https://pbs.twimg.com/media/CqwDXDkUMAAjCE5.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv100-baal",
+    "category": "standard4",
+    "id": "",
+    "name": "Lv100 バアル",
+    "name_en": "Lvl 100 Baal",
+    "image": "https://pbs.twimg.com/media/CjLxgrbUgAAFbwi.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv100-garuda",
+    "category": "standard4",
+    "id": "",
+    "name": "Lv100 ガルーダ",
+    "name_en": "Lvl 100 Garuda",
+    "image": "https://pbs.twimg.com/media/CkVbhuqVEAA7e6K.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv100-odin",
+    "category": "standard4",
+    "id": "",
+    "name": "Lv100 オーディン",
+    "name_en": "Lvl 100 Odin",
+    "image": "https://pbs.twimg.com/media/CqwDU_jUkAQjgKq.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv100-lich",
+    "category": "standard4",
+    "id": "",
+    "name": "Lv100 リッチ",
+    "name_en": "Lvl 100 Lich",
+    "image": "https://pbs.twimg.com/media/CqwDZKwVMAAxt0Y.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv100-grand-order",
+    "category": "standard5",
+    "id": "",
+    "name": "Lv100 ジ・オーダー・グランデ",
+    "name_en": "Lvl 100 Grand Order",
+    "image": "https://pbs.twimg.com/media/CdL4YeiUEAI0JKW.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv100-proto-bahamut",
+    "category": "standard5",
+    "id": "",
+    "name": "Lv100 プロトバハムート",
+    "name_en": "Lvl 100 Proto Bahamut",
+    "image": "https://pbs.twimg.com/media/CT6cIKmUYAAPVmD.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv100-huanglong",
+    "category": "standard5",
+    "id": "",
+    "name": "Lv100 黄龍",
+    "name_en": "Lvl 100 Huanglong",
+    "image": "https://pbs.twimg.com/media/ClrgFhVVYAECRRD.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv100-qilin",
+    "category": "standard5",
+    "id": "",
+    "name": "Lv100 黒麒麟",
+    "name_en": "Lvl 100 Qilin",
+    "image": "https://pbs.twimg.com/media/ClrgH4wUYAAax1o.jpg",
+    "element": "Dark"
+  },
+  {
+    "alias": "lv100-raphael",
+    "category": "standard6",
+    "id": "",
+    "name": "Lv100 ラファエル",
+    "name_en": "Lvl 100 Raphael",
+    "image": "https://pbs.twimg.com/media/C666_h3V0AAQvt4.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv100-michael",
+    "category": "standard6",
+    "id": "",
+    "name": "Lv100 ミカエル",
+    "name_en": "Lvl 100 Michael",
+    "image": "https://pbs.twimg.com/media/C6668rmVsAAjpu1.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv100-gabriel",
+    "category": "standard6",
+    "id": "",
+    "name": "Lv100 ガブリエル",
+    "name_en": "Lvl 100 Gabriel",
+    "image": "https://pbs.twimg.com/media/C6666EXU4AE8ENT.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv100-uriel",
+    "category": "standard6",
+    "id": "",
+    "name": "Lv100 ウリエル",
+    "name_en": "Lvl 100 Uriel",
+    "image": "https://pbs.twimg.com/media/C66623wU8AACyL2.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv150-ultimate-bahamut",
+    "category": "standard7",
+    "id": "",
+    "name": "Lv150 アルティメットバハムート",
+    "name_en": "Lvl 150 Ultimate Bahamut",
+    "image": "https://pbs.twimg.com/media/DFyjr6zUQAEfeFN.jpg",
+    "element": "None"
+  }
+]
