@@ -62,6 +62,6 @@ console.log(bosses[0])
 ---
 MIT
 
-[0]: 59naga/gbf-raid-server
+[0]: https://github.com/59naga/gbf-raid-server#readme
 [1]: https://user-images.githubusercontent.com/1548478/42528328-18d4a584-84b6-11e8-9ff8-eb50adda5066.png
 [2]: https://github.com/ypinskiy/GBF-Raiders/blob/master/raids.json
