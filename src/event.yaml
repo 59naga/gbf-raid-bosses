@@ -39,6 +39,11 @@
   image: 'https://pbs.twimg.com/media/Cb8Squ1VIAAeo69.jpg'
   element: Earth
 - id: ''
+  name: Lv100 ゼノ・イフリート
+  name_en: Lvl 100 Xeno Ifrit
+  image: 'https://pbs.twimg.com/media/C4sbgzyWMAA3B8D.jpg'
+  element: Fire
+- id: ''
   name: Lv100 ゼノ・サジタリウス
   name_en: Lvl 100 Xeno Sagittarius
   image: 'https://pbs.twimg.com/media/DICaGf2U0AA8rJE.jpg'
@@ -58,11 +63,6 @@
   name_en: Lvl 100 Xeno Corow
   image: 'https://pbs.twimg.com/media/DYsqZQBV4AEnG7Z.jpg'
   element: Light
-- id: ''
-  name: Lv100 ゼノ・イフリート
-  name_en: Lvl 100 Xeno Ifrit
-  image: 'https://pbs.twimg.com/media/C4sbgzyWMAA3B8D.jpg'
-  element: Dark
 - id: ''
   name: Lv100 ゼノ・ディアボロス
   name_en: Lvl 100 Xeno Diablo
