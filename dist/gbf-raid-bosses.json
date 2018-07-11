@@ -72,6 +72,15 @@
     "element": "Earth"
   },
   {
+    "alias": "lv100-xeno-ifrit",
+    "category": "event",
+    "id": "",
+    "name": "Lv100 ゼノ・イフリート",
+    "name_en": "Lvl 100 Xeno Ifrit",
+    "image": "https://pbs.twimg.com/media/C4sbgzyWMAA3B8D.jpg",
+    "element": "Fire"
+  },
+  {
     "alias": "lv100-xeno-sagittarius",
     "category": "event",
     "id": "",
@@ -106,15 +115,6 @@
     "name_en": "Lvl 100 Xeno Corow",
     "image": "https://pbs.twimg.com/media/DYsqZQBV4AEnG7Z.jpg",
     "element": "Light"
-  },
-  {
-    "alias": "lv100-xeno-ifrit",
-    "category": "event",
-    "id": "",
-    "name": "Lv100 ゼノ・イフリート",
-    "name_en": "Lvl 100 Xeno Ifrit",
-    "image": "https://pbs.twimg.com/media/C4sbgzyWMAA3B8D.jpg",
-    "element": "Dark"
   },
   {
     "alias": "lv100-xeno-diablo",
