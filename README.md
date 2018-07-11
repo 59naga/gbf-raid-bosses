@@ -1,7 +1,7 @@
 gbf-raid-bosses
 ---
 
-[gbf-raid-server](59naga/gbf-raid-server)でtwitter検索に使用するボス名の一覧をjsonで出力し`dist`に保存しています。
+[gbf-raid-server][0]でtwitter検索に使用するボス名の一覧をjsonで出力し`dist`に保存しています。
 
 用法
 ---
@@ -36,9 +36,32 @@ jsonは一次元配列でボスごとにオブジェクトで下記の情報を�
 * `image: string`…twitterで添付される画像。日本語のものを使用
 * `element: "None" | "Fire" | "Water" | "Earth" | "Wind" | "Light" | "Dark"`…ボスの属性。[GBF-Raidersから転載][2]しています
 
+索引
+---
+[gbf-raid-server][0]の`tweet.name`から`gbf-raid-bosses.json`のindex番号を引き出すのは`bosses.find`を使用したりと一手間です。
+和名・英名からindex番号を返す単純なオブジェクトを`dist/indexes.json`として出力しています。
+
+```js
+import bosses from './gbf-raid-bosses.json'
+import indexes from './indexes.json'
+
+console.log(indexes['Lv60 青竜']) // 0
+console.log(indexes['Lvl 60 Qinglong']) // 0
+
+console.log(bosses[0])
+// { alias: 'lv60-qinglong',
+//   category: 'event',
+//   id: '',
+//   name: 'Lv60 青竜',
+//   name_en: 'Lvl 60 Qinglong',
+//   image: 'https://pbs.twimg.com/media/CYpGBIuW8AEniTh.jpg',
+//   element: 'Wind' }
+```
+
 ライセンス
 ---
 MIT
 
+[0]: 59naga/gbf-raid-server
 [1]: https://user-images.githubusercontent.com/1548478/42528328-18d4a584-84b6-11e8-9ff8-eb50adda5066.png
 [2]: https://github.com/ypinskiy/GBF-Raiders/blob/master/raids.json
