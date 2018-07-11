@@ -1188,6 +1188,60 @@
     "element": "Dark"
   },
   {
+    "alias": "lv60-tiamat",
+    "category": "misc",
+    "id": "",
+    "name": "Lv60 ティアマト",
+    "name_en": "Lvl 60 Tiamat",
+    "image": "https://pbs.twimg.com/media/DdrvEShUwAAXi6X.jpg",
+    "element": "Wind"
+  },
+  {
+    "alias": "lv60-colossus",
+    "category": "misc",
+    "id": "",
+    "name": "Lv60 コロッサス",
+    "name_en": "Lvl 60 Colossus",
+    "image": "https://pbs.twimg.com/media/DdrvG8UVAAAO33N.jpg",
+    "element": "Fire"
+  },
+  {
+    "alias": "lv60-leviathan",
+    "category": "misc",
+    "id": "",
+    "name": "Lv60 リヴァイアサン",
+    "name_en": "Lvl 60 Leviathan",
+    "image": "https://pbs.twimg.com/media/DdrvJ2KU8AEthfi.jpg",
+    "element": "Water"
+  },
+  {
+    "alias": "lv60-yggdrasil",
+    "category": "misc",
+    "id": "",
+    "name": "Lv60 ユグドラシル",
+    "name_en": "Lvl 60 Yggdrasil",
+    "image": "https://pbs.twimg.com/media/DdrvPf-UQAEqqMv.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv60-adversa",
+    "category": "misc",
+    "id": "",
+    "name": "Lv60 アドウェルサ",
+    "name_en": "Lvl 60 Adversa",
+    "image": "https://pbs.twimg.com/media/DdrvSWVUwAAiYu5.jpg",
+    "element": "Light"
+  },
+  {
+    "alias": "lv60-celeste",
+    "category": "misc",
+    "id": "",
+    "name": "Lv60 セレスト",
+    "name_en": "Lvl 60 Celeste",
+    "image": "https://pbs.twimg.com/media/DdrvUz3V0AEtbgx.jpg",
+    "element": "Dark"
+  },
+  {
     "alias": "lv50-tiamat-omega",
     "category": "standard2",
     "id": "",

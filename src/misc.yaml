@@ -103,3 +103,33 @@
   name_en: Lvl 50 Celeste
   image: 'https://pbs.twimg.com/media/CT6cmzjUcAIvSo_.jpg'
   element: Dark
+- id: ''
+  name: Lv60 ティアマト
+  name_en: Lvl 60 Tiamat
+  image: 'https://pbs.twimg.com/media/DdrvEShUwAAXi6X.jpg'
+  element: Wind
+- id: ''
+  name: Lv60 コロッサス
+  name_en: Lvl 60 Colossus
+  image: 'https://pbs.twimg.com/media/DdrvG8UVAAAO33N.jpg'
+  element: Fire
+- id: ''
+  name: Lv60 リヴァイアサン
+  name_en: Lvl 60 Leviathan
+  image: 'https://pbs.twimg.com/media/DdrvJ2KU8AEthfi.jpg'
+  element: Water
+- id: ''
+  name: Lv60 ユグドラシル
+  name_en: Lvl 60 Yggdrasil
+  image: 'https://pbs.twimg.com/media/DdrvPf-UQAEqqMv.jpg'
+  element: Earth
+- id: ''
+  name: Lv60 アドウェルサ
+  name_en: Lvl 60 Adversa
+  image: 'https://pbs.twimg.com/media/DdrvSWVUwAAiYu5.jpg'
+  element: Light
+- id: ''
+  name: Lv60 セレスト
+  name_en: Lvl 60 Celeste
+  image: 'https://pbs.twimg.com/media/DdrvUz3V0AEtbgx.jpg'
+  element: Dark
