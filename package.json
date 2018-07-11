@@ -17,5 +17,6 @@
     "param-case": "^2.1.1",
     "prettier": "^1.13.7",
     "rimraf": "^2.6.2"
-  }
+  },
+  "version": "0.0.0"
 }
