@@ -39,7 +39,7 @@ jsonは一次元配列でボスごとにオブジェクトで下記の情報を�
 索引
 ---
 [gbf-raid-server][0]の`tweet.name`から`gbf-raid-bosses.json`のindex番号を引き出すのは`bosses.find`を使用したりと一手間です。
-和名・英名からindex番号を返す単純なオブジェクトを`dist/indexes.json`として出力しています。
+和名・英名からindex番号を返す単純なオブジェクトを[dist/indexes.json](dist/indexes.json)として出力しています。
 
 ```js
 import bosses from './gbf-raid-bosses.json'
