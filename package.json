@@ -1,4 +1,6 @@
 {
+  "private": true,
+  "main": "dist/gbf-raid-bosses.json",
   "scripts": {
     "build": "node --experimental-modules index.mjs"
   },
