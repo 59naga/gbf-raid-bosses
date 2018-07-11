@@ -2,13 +2,18 @@
   "private": true,
   "main": "dist/gbf-raid-bosses.json",
   "scripts": {
-    "build": "node --experimental-modules index.mjs"
+    "start": "mocha --watch --watch-extensions mjs",
+    "build": "node --experimental-modules index.mjs",
+    "test": "mocha"
   },
   "devDependencies": {
-    "js-yaml": "^3.12.0",
+    "@std/esm": "^0.26.0",
     "change-case": "^3.0.2",
+    "js-yaml": "^3.12.0",
     "mkdirp": "^0.5.1",
+    "mocha": "^5.2.0",
     "param-case": "^2.1.1",
+    "prettier": "^1.13.7",
     "rimraf": "^2.6.2"
   }
 }
