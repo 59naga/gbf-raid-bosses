@@ -459,15 +459,6 @@
     "element": "Fire"
   },
   {
-    "alias": "lv60-allosaurus",
-    "category": "eventUniteAndFight",
-    "id": "",
-    "name": "Lv60 アロザロウス",
-    "name_en": "Lvl 60 Allosaurus",
-    "image": "",
-    "element": "Water"
-  },
-  {
     "alias": "lv60-audumbla",
     "category": "eventUniteAndFight",
     "id": "",
