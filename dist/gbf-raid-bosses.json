@@ -36,6 +36,15 @@
     "element": "Water"
   },
   {
+    "alias": "lv50-allosaurus",
+    "category": "event",
+    "id": "",
+    "name": "Lv50 アロザロウス",
+    "name_en": "Lvl 50 Allosaurus",
+    "image": "https://pbs.twimg.com/media/Cg7oKDuUkAE_rq_.jpg",
+    "element": "Water"
+  },
+  {
     "alias": "lv60-qinglong",
     "category": "event",
     "id": "",
@@ -546,15 +555,6 @@
     "name": "Lv50 アウズンブラ",
     "name_en": "Lvl 50 Audumbla",
     "image": "https://pbs.twimg.com/media/CjLxRvbUkAAIlIt.jpg",
-    "element": "Water"
-  },
-  {
-    "alias": "lv50-allosaurus",
-    "category": "eventUniteAndFight",
-    "id": "",
-    "name": "Lv50 アロザロウス",
-    "name_en": "Lvl 50 Allosaurus",
-    "image": "",
     "element": "Water"
   },
   {
