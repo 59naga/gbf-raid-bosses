@@ -19,6 +19,11 @@
   image: 'https://pbs.twimg.com/media/Cg7ofNmVEAEyw48.jpg'
   element: Water
 - id: ''
+  name: Lv50 アロザロウス
+  name_en: Lvl 50 Allosaurus
+  image: 'https://pbs.twimg.com/media/Cg7oKDuUkAE_rq_.jpg'
+  element: Water
+- id: ''
   name: Lv60 青竜
   name_en: Lvl 60 Qinglong
   image: 'https://pbs.twimg.com/media/CYpGBIuW8AEniTh.jpg'
