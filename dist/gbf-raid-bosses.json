@@ -33,7 +33,7 @@
     "name": "Lv75 ティラノス",
     "name_en": "Lvl 75 Tyrannus",
     "image": "https://pbs.twimg.com/media/Cg7ofNmVEAEyw48.jpg",
-    "element": "Water"
+    "element": "Earth"
   },
   {
     "alias": "lv60-allosaurus",
@@ -41,8 +41,17 @@
     "id": "",
     "name": "Lv60 アロザロウス",
     "name_en": "Lvl 60 Allosaurus",
+    "image": "https://pbs.twimg.com/media/Cg7oM5IUcAAHBkA.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv50-allosaurus",
+    "category": "event",
+    "id": "",
+    "name": "Lv50 アロザロウス",
+    "name_en": "Lvl 50 Allosaurus",
     "image": "https://pbs.twimg.com/media/Cg7oKDuUkAE_rq_.jpg",
-    "element": "Water"
+    "element": "Earth"
   },
   {
     "alias": "lv60-qinglong",
