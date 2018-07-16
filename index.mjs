@@ -11,7 +11,6 @@ rimraf.sync(`./${outDir}`)
 mkdirp.sync(`./${outDir}`)
 
 buildBosses()
-buildIndexes()
 
 function normalize(name = 'unknown') {
   return name.replace('Lvl', 'lv').replace(/[ _]/g, '')
@@ -43,15 +42,4 @@ function buildBosses() {
     `./${outDir}/gbf-raid-bosses.json`,
     JSON.stringify(bosses, null, 2)
   )
-}
-
-function buildIndexes() {
-  const bosses = readFileBosses()
-  const indexes = bosses.reduce((indexes, boss, index) => {
-    indexes[boss.name] = index
-    indexes[boss.name_en] = index
-    return indexes
-  }, {})
-
-  writeFileSync(`./${outDir}/indexes.json`, JSON.stringify(indexes, null, 2))
 }
