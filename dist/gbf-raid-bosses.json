@@ -1,5 +1,41 @@
 [
   {
+    "alias": "lv100-tezcatlipoca",
+    "category": "event",
+    "id": "",
+    "name": "Lv100 テスカトリポカ",
+    "name_en": "Lvl 100 Tezcatlipoca",
+    "image": "https://pbs.twimg.com/media/DiOcM6EVQAE0b82.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv95-tezcatlipoca",
+    "category": "event",
+    "id": "",
+    "name": "Lv95 テスカトリポカ",
+    "name_en": "Lvl 95 Tezcatlipoca",
+    "image": "https://pbs.twimg.com/media/DiOcM6EVQAE0b82.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv90-tezcatlipoca",
+    "category": "event",
+    "id": "",
+    "name": "Lv90 テスカトリポカ",
+    "name_en": "Lvl 90 Tezcatlipoca",
+    "image": "https://pbs.twimg.com/media/DiOcM6EVQAE0b82.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv75-tyrannus",
+    "category": "event",
+    "id": "",
+    "name": "Lv75 ティラノス",
+    "name_en": "Lvl 75 Tyrannus",
+    "image": "https://pbs.twimg.com/media/Cg7ofNmVEAEyw48.jpg",
+    "element": "Water"
+  },
+  {
     "alias": "lv60-qinglong",
     "category": "event",
     "id": "",
@@ -600,15 +636,6 @@
     "name": "Lv75 ビザールビースト",
     "name_en": "Lvl 75 Aberration",
     "image": "https://pbs.twimg.com/media/CjLxc3FUkAAqOiJ.jpg",
-    "element": "Water"
-  },
-  {
-    "alias": "lv75-tyrannus",
-    "category": "eventUniteAndFight",
-    "id": "",
-    "name": "Lv75 ティラノス",
-    "name_en": "Lvl 75 Tyrannus",
-    "image": "https://pbs.twimg.com/media/Cg7ofNmVEAEyw48.jpg",
     "element": "Water"
   },
   {
