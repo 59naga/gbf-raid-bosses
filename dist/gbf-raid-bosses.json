@@ -1,57 +1,21 @@
 [
   {
-    "alias": "lv100-tezcatlipoca",
+    "alias": "lv30-battleship-jenkins",
     "category": "event",
     "id": "",
-    "name": "Lv100 テスカトリポカ",
-    "name_en": "Lvl 100 Tezcatlipoca",
-    "image": "https://pbs.twimg.com/media/DiOcM6EVQAE0b82.jpg",
-    "element": "Earth"
+    "name": "Lv30 ゴシパラヤ＝ゲィル",
+    "name_en": "Lvl 30 Battleship Jenkins",
+    "image": "https://pbs.twimg.com/media/DixCYaOVMAACcGq.jpg",
+    "element": "Fire"
   },
   {
-    "alias": "lv95-tezcatlipoca",
+    "alias": "lv50-sea-urkin",
     "category": "event",
     "id": "",
-    "name": "Lv95 テスカトリポカ",
-    "name_en": "Lvl 95 Tezcatlipoca",
-    "image": "https://pbs.twimg.com/media/DiOcM6EVQAE0b82.jpg",
-    "element": "Earth"
-  },
-  {
-    "alias": "lv90-tezcatlipoca",
-    "category": "event",
-    "id": "",
-    "name": "Lv90 テスカトリポカ",
-    "name_en": "Lvl 90 Tezcatlipoca",
-    "image": "https://pbs.twimg.com/media/DiOcM6EVQAE0b82.jpg",
-    "element": "Earth"
-  },
-  {
-    "alias": "lv75-tyrannus",
-    "category": "event",
-    "id": "",
-    "name": "Lv75 ティラノス",
-    "name_en": "Lvl 75 Tyrannus",
-    "image": "https://pbs.twimg.com/media/Cg7ofNmVEAEyw48.jpg",
-    "element": "Earth"
-  },
-  {
-    "alias": "lv60-allosaurus",
-    "category": "event",
-    "id": "",
-    "name": "Lv60 アロザロウス",
-    "name_en": "Lvl 60 Allosaurus",
-    "image": "https://pbs.twimg.com/media/Cg7oM5IUcAAHBkA.jpg",
-    "element": "Earth"
-  },
-  {
-    "alias": "lv50-allosaurus",
-    "category": "event",
-    "id": "",
-    "name": "Lv50 アロザロウス",
-    "name_en": "Lvl 50 Allosaurus",
-    "image": "https://pbs.twimg.com/media/Cg7oKDuUkAE_rq_.jpg",
-    "element": "Earth"
+    "name": "Lv50 ンニ",
+    "name_en": "Lvl 50 Sea Urkin",
+    "image": "https://pbs.twimg.com/media/DixCbGjUYAE5KRl.jpg",
+    "element": "Fire"
   },
   {
     "alias": "lv60-qinglong",
@@ -385,6 +349,60 @@
     "name_en": "Lvl 60 Procris",
     "image": "",
     "element": "None"
+  },
+  {
+    "alias": "lv100-tezcatlipoca",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv100 テスカトリポカ",
+    "name_en": "Lvl 100 Tezcatlipoca",
+    "image": "https://pbs.twimg.com/media/DiWj6pTV4AEFdwq.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv95-tezcatlipoca",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv95 テスカトリポカ",
+    "name_en": "Lvl 95 Tezcatlipoca",
+    "image": "https://pbs.twimg.com/media/DiWj4XBVAAAY6eo.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv90-tezcatlipoca",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv90 テスカトリポカ",
+    "name_en": "Lvl 90 Tezcatlipoca",
+    "image": "https://pbs.twimg.com/media/DiWj108UYAAaFBS.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv75-tyrannus",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv75 ティラノス",
+    "name_en": "Lvl 75 Tyrannus",
+    "image": "https://pbs.twimg.com/media/Cg7ofNmVEAEyw48.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv60-allosaurus",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv60 アロザロウス",
+    "name_en": "Lvl 60 Allosaurus",
+    "image": "https://pbs.twimg.com/media/Cg7oM5IUcAAHBkA.jpg",
+    "element": "Earth"
+  },
+  {
+    "alias": "lv50-allosaurus",
+    "category": "eventUniteAndFight",
+    "id": "",
+    "name": "Lv50 アロザロウス",
+    "name_en": "Lvl 50 Allosaurus",
+    "image": "https://pbs.twimg.com/media/Cg7oKDuUkAE_rq_.jpg",
+    "element": "Earth"
   },
   {
     "alias": "lv100-quetzalcoatl",
