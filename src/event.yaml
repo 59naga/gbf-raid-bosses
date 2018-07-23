@@ -1,4 +1,14 @@
 - id: ''
+  name: Lv30 ゴシパラヤ＝ゲィル
+  name_en: Lvl 30 Battleship Jenkins
+  image: 'https://pbs.twimg.com/media/DixCYaOVMAACcGq.jpg'
+  element: Fire
+- id: ''
+  name: Lv50 ンニ
+  name_en: Lvl 50 Sea Urkin
+  image: 'https://pbs.twimg.com/media/DixCbGjUYAE5KRl.jpg'
+  element: Fire
+- id: ''
   name: Lv60 青竜
   name_en: Lvl 60 Qinglong
   image: 'https://pbs.twimg.com/media/CYpGBIuW8AEniTh.jpg'
