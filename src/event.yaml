@@ -1,34 +1,4 @@
 - id: ''
-  name: Lv100 テスカトリポカ
-  name_en: Lvl 100 Tezcatlipoca
-  image: 'https://pbs.twimg.com/media/DiOcM6EVQAE0b82.jpg'
-  element: Earth
-- id: ''
-  name: Lv95 テスカトリポカ
-  name_en: Lvl 95 Tezcatlipoca
-  image: 'https://pbs.twimg.com/media/DiOcM6EVQAE0b82.jpg'
-  element: Earth
-- id: ''
-  name: Lv90 テスカトリポカ
-  name_en: Lvl 90 Tezcatlipoca
-  image: 'https://pbs.twimg.com/media/DiOcM6EVQAE0b82.jpg'
-  element: Earth
-- id: ''
-  name: Lv75 ティラノス
-  name_en: Lvl 75 Tyrannus
-  image: 'https://pbs.twimg.com/media/Cg7ofNmVEAEyw48.jpg'
-  element: Earth
-- id: ''
-  name: Lv60 アロザロウス
-  name_en: Lvl 60 Allosaurus
-  image: 'https://pbs.twimg.com/media/Cg7oM5IUcAAHBkA.jpg'
-  element: Earth
-- id: ''
-  name: Lv50 アロザロウス
-  name_en: Lvl 50 Allosaurus
-  image: 'https://pbs.twimg.com/media/Cg7oKDuUkAE_rq_.jpg'
-  element: Earth
-- id: ''
   name: Lv60 青竜
   name_en: Lvl 60 Qinglong
   image: 'https://pbs.twimg.com/media/CYpGBIuW8AEniTh.jpg'
